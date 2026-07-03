@@ -1,0 +1,6 @@
+{
+  "name": "AI Token & Configuration Dashboard",
+  "description": "An elegant, full-stack dashboard for managing API tokens, model configurations, and a live playground chat integrated with the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
